@@ -11,4 +11,4 @@ Wasn't that cool ? Now the thing is how it all works behind the curtain. We have
 
 Like how does a picture is converted to 0 and 1 and how does an audio is transferred through several miles if all computer know is just binary. Let us dive a little deep than, it's actually much more simpler than you can imagine.
 
-The answer is too easy to be get converted into another blog but I love blogging ao check this one for the explanation.
+The answer is too easy to be get converted into another blog but I love blogging so check this one for the explanation.
