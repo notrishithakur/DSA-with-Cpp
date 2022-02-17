@@ -8,4 +8,7 @@ Before moving further I want you to run a code, just copy the whole code and pas
 https://github.com/rishithakurr/Everything-CS-with-Cpp/blob/main/Thug.cpp
 
 Wasn't that cool ? Now the thing is how it all works behind the curtain. We have always known that computer fundamentally works on 0 and 1, but how exactly ?
+
 Like how does a picture is converted to 0 and 1 and how does an audio is transferred through several miles if all computer know is just binary. Let us dive a little deep than, it's actually much more simpler than you can imagine.
+
+The answer is too easy to be get converted into another blog but I love blogging ao check this one for the explanation.
